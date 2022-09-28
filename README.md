@@ -1,6 +1,6 @@
 <h1>Hi, I’m Velkur Bharath<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h1>
-<h2>I am an open source contributor and programmer<br>I widely create C++ and python programs<br>I created and Developed games, using C# and Unity</h2>
-<h2><!---I’m currently working on Data Structures and Algorithms<br>--->I’m currently learning React js</h2>
+<!---<h2>I am an open source contributor and programmer<br>I widely create C++ and python programs<br>I created and Developed games, using C# and Unity</h2>--->
+<h2><!---I’m currently working on Data Structures and Algorithms<br>I’m currently learning React js</h2>--->
 
 <h4>My games : https://velkur.itch.io/</h4>
 <!---
